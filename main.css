@@ -1,0 +1,23 @@
+.container .logo {
+  width: 120px;
+}
+.container .log-in {
+  width: 110px;
+}
+.container .top-left {
+  margin-left: 100px;
+  margin-top: -70px;
+}
+.container .bottom-left {
+  margin-left: 100px;
+  margin-top: 40px;
+}
+.container .center {
+  margin-top: -70px;
+}
+.container .top-right {
+  margin-top: -70px;
+}
+.container .bottom-right {
+  margin-top: 40px;
+}/*# sourceMappingURL=main.css.map */
